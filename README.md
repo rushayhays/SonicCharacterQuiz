@@ -13,3 +13,10 @@ Right now all the questions are loaded at once, but ideally, an alignment questi
 Currently all the questions are hard-coded into the QuizQuestionaire file. It would be great to break them out into seperate files to facilitate a quiz that asks you different questions based on the answers you give it.
 
 ## How to start
+Please fork a branch of your own off of this project
+Hit that "Fork" button and give it a fancy name. 
+Please make sure your pushes will be pushed up to your forked branch, and not to main.
+Thank You!
+
+## Contact Info
+I don't know that I'll be working on this much going into the future, so I'm going to leave this part blank
