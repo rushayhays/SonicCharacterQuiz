@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "react-router-dom"
 
 
-export const NavBar = () => {
+export const SubmitButtonRoutes = () => {
     return (
         <ul className="navbar">
             <li className="navbar__item active">

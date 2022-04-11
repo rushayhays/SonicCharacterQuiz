@@ -5,7 +5,7 @@ import React, {useState, useEffect} from "react";
 import { useNavigate } from 'react-router-dom';
 
 
-export const Question3 = () => {
+export const Question6 = () => {
     let [answer, setAnswer] = useState("")
     
     const handleChange = (event) => {

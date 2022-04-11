@@ -1,7 +1,13 @@
+import "./Profile.css"
+
 export const AmyCard = () => {
     return (
         <>
-            <h2>You are Amy Rose</h2>
+            <div className="profileCard">
+                <h2>You are Amy Rose</h2>
+                <div className = "imageArea" id="amyImg"></div>
+            </div>
         </>
     )
 }
+

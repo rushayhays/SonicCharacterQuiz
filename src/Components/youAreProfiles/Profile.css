@@ -1,0 +1,30 @@
+.imageArea {
+    background-image: url("C:/Users/rusha/workspace/sonicquiz/public/images/209816-70618-amy.jpg");
+    min-height:500px;
+    background-repeat: no-repeat;
+}
+
+#amyImg {
+    background-image: url("C:/Users/rusha/workspace/sonicquiz/public/images/209816-70618-amy.jpg");
+}
+
+#knucklesImg {
+    background-image: url("C:/Users/rusha/workspace/sonicquiz/public/images/Knuckles_the_Echidna.png");
+}
+
+#shadowImg{
+    background-image: url("C:/Users/rusha/workspace/sonicquiz/public/images/ShadowTheHedgehogSA2.png");
+}
+
+#sonicImg{
+    background-image: url("C:/Users/rusha/workspace/sonicquiz/public/images/Sonic_135.png");
+    background-size: 300px;
+}
+
+#robotnikImg{
+    background-image: url("C:/Users/rusha/workspace/sonicquiz/public/images/Eggman_robotnik.png");
+}
+
+#tailsImg{
+    background-image: url("C:/Users/rusha/workspace/sonicquiz/public/images/Miles__Tails__Prower_Sonic_and_All-Stars_Racing_Transformed.png");
+}

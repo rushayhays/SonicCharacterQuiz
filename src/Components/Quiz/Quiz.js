@@ -1,14 +1,14 @@
 import React from 'react'
-import { NavBar } from '../SubmitButton/SubmitButton'
 import { ApplicationViews } from '../ApplicationViews'
+import { SonicBanner } from '../banner/SonicBanner'
 
 
 export const Quiz = () => {
     return (
         <>
-         <NavBar/>
+        < SonicBanner />
          <ApplicationViews/>
-
+        
         </>
 
     )
